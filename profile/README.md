@@ -20,8 +20,9 @@ Cover aims to become a global trust layer for online transactions across social 
 ## 🛠 Tech Stack
 
 - Rust
-- Dioxus
-- Axum
+  Axum
+- Htmx
+- Tailwind
 
 ## 🤝 Contributing
 
