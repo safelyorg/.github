@@ -1,10 +1,28 @@
-## Hi there 👋
+# Cover
 
-**Here are some ideas to get you started:**
+Cover is a payment protection platform that helps buyers and sellers complete online deals safely.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+Instead of sending money directly, payments are protected through Cover until the product, service, or work is delivered and confirmed.
 
+## 🚀 Features
+
+- Payment protection
+- Deal confirmation system
+- Scam prevention
+- Buyer & seller trust layer
+- Web2 + Web3 support (planned)
+- AI risk detection (planned)
+
+## 🌍 Vision
+
+Cover aims to become a global trust layer for online transactions across social platforms, marketplaces, and digital payments.
+
+## 🛠 Tech Stack
+
+- Rust
+- Dioxus
+- Axum
+
+## 🤝 Contributing
+
+Contributions, ideas, and feedback are welcome.
