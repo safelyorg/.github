@@ -12,7 +12,6 @@ Instead of trusting a listing on faith, Safely reads the seller's history, cross
 - **Community fraud reporting** — buyers report scams directly from the extension, instantly protecting the next person who views that seller
 - **Cover Status** — sellers are marked Unverified or Reported based on real community reports, not an algorithm's guess
 - **Dashboard** — a full history of every listing you've checked and every report you've filed, sign in with email (magic link) or Google
-- **Works across marketplaces** — OLX Pakistan live today, Facebook Marketplace and others planned
 
 ## 🌍 Vision
 
